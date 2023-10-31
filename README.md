@@ -1,5 +1,9 @@
 # U.S. Time Zones Display
 
+Screenshot
+![Screenshot 2023-10-31 at 2 21 02 PM](https://github.com/Sajith-S15/time-us/assets/123757769/6658bf30-e75e-4721-9f3e-8ee467b60fcf)
+
+
 
 This web application is a simple project that displays the current time in the six major U.S. time zones: 
 Hawaii-Aleutian Time, Alaska Time, Pacific Time, Mountain Time, Central Time, and Eastern Time. It provides a
@@ -13,12 +17,12 @@ visually appealing and informative way to check the time across the United State
 .Automatically updates every second, eliminating the need for manual page refresh.
 
 
-Technologies Used
+## Technologies Used
 .HTML for structuring the page.
 .CSS for styling the page and time zone display.
 .JavaScript with the Luxon library for time zone handling and real-time updates.
 
-How to Use
+## How to Use
 1.Open the web page in your browser.
 2.The current time for each U.S. time zone is displayed.
 3.Times are automatically updated every second to reflect the most accurate time.
